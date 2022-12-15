@@ -3,7 +3,7 @@
 ## Project Description :
 ### YouCode Jobs is a site where companies that have or don't have a partenariat with YouCode can post job offers and recruitment opportunities for Developpers and a place where student of YouCode can apply for them.This Project is splitted into 3 Parts.
 ## MODULE Description :
-<h1><b> I- HOMEPAGE :</b></h1>
+<h1><b> HOMEPAGE :</b></h1>
 <ul>
 <li>Apply for an account (for comapnies that has no partenariat with youcode)</li>
 </ul>
@@ -34,7 +34,9 @@
 	<li>Login/Logout</li>
 </ul>
 ## Software Requirements:
-1. Operating System :  Windows/Linux
-2. Database :  MYSQL
-3. Web Technologies :  Html ,CSS, BootStarp, JavaScript, PHP
-4. Editeur : VS Code
+<ul>
+<li> 1. Operating System :  Windows/Linux
+<li> 2. Database :  MYSQL
+<li> 3. Web Technologies :  Html ,CSS, BootStarp, JavaScript, PHP
+<li> 4. Editeur : VS Code
+</ul>
