@@ -35,8 +35,8 @@
 </ul>
 ## Software Requirements:
 <ul>
-<li> 1. Operating System :  Windows/Linux
-<li> 2. Database :  MYSQL
-<li> 3. Web Technologies :  Html ,CSS, BootStarp, JavaScript, PHP
-<li> 4. Editeur : VS Code
+<li> Operating System :  Windows/Linux
+<li> Database :  MYSQL
+<li> Web Technologies :  Html ,CSS, BootStarp, JavaScript, PHP
+<li> Editeur : VS Code
 </ul>
