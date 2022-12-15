@@ -5,7 +5,7 @@
 ## MODULE Description :
 <h1><b> HOMEPAGE :</b></h1>
 <ul>
-<li>Apply for an account (for comapnies that has no partenariat with youcode)</li>
+<li>Apply for an account (for comapnies with no relation with youcode).</li>
 </ul>
 <h1><b> I- Dashboard Admin :</b></h1>
 <ul>
